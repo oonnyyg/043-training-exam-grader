@@ -1,0 +1,27 @@
+{
+  "total_sheets": 12,
+  "valid_sheets": 4,
+  "invalid_sheets": 8,
+  "mean_score": 6,
+  "pass_count": 3,
+  "question_stats": [
+    {
+      "question_id": "q1",
+      "points": 2,
+      "full_marks": 3,
+      "full_rate": 0.75
+    },
+    {
+      "question_id": "q2",
+      "points": 4,
+      "full_marks": 1,
+      "full_rate": 0.25
+    },
+    {
+      "question_id": "q3",
+      "points": 4,
+      "full_marks": 3,
+      "full_rate": 0.75
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{"line":1,"student_id":"S001","valid":true,"questions":[{"question_id":"q1","status":"correct","points":2,"score":2},{"question_id":"q2","status":"correct","points":4,"score":4},{"question_id":"q3","status":"correct","points":4,"score":4}],"total":10,"passed":true}
+{"line":2,"student_id":"S002","valid":true,"questions":[{"question_id":"q1","status":"wrong","points":2,"score":0},{"question_id":"q2","status":"partial","points":4,"score":2},{"question_id":"q3","status":"wrong","points":4,"score":0}],"total":2}
+{"line":3,"student_id":"S003","valid":true,"questions":[{"question_id":"q1","status":"correct","points":2,"score":2},{"question_id":"q2","status":"unanswered","points":4,"score":0},{"question_id":"q3","status":"correct","points":4,"score":4}],"total":6,"passed":true}
+{"line":4,"student_id":"S004","valid":true,"questions":[{"question_id":"q1","status":"correct","points":2,"score":2},{"question_id":"q2","status":"wrong","points":4,"score":0},{"question_id":"q3","status":"correct","points":4,"score":4}],"total":6,"passed":true}
+{"line":5,"student_id":"S005","valid":false,"errors":["question \"q1\": single-choice question submitted with 2 options"]}
+{"line":6,"student_id":"S006","valid":false,"errors":["question \"q1\": undefined option \"Z\"","question \"q3\": answer must be a single finite number: json: cannot unmarshal string into Go value of type float64"]}
+{"line":7,"student_id":"S007","valid":false,"errors":["duplicate student_id \"S007\""]}
+{"line":8,"student_id":"S007","valid":false,"errors":["duplicate student_id \"S007\""]}
+{"line":9,"student_id":"","valid":false,"errors":["empty student_id"]}
+{"line":10,"student_id":"S008","valid":false,"errors":["unknown question id \"q9\""]}
+{"line":11,"student_id":"","valid":false,"errors":["invalid JSON: invalid character 'a' looking for beginning of object key string"]}
+{"line":12,"student_id":"S010","valid":false,"errors":["question \"q2\": duplicate option \"A\""]}

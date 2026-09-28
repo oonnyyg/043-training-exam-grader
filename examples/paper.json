@@ -1,0 +1,35 @@
+{
+  "title": "安全生产培训测验",
+  "pass_score": 6,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single",
+      "points": 2,
+      "options": [
+        {"id": "A", "text": "立即撤离并上报"},
+        {"id": "B", "text": "继续作业"},
+        {"id": "C", "text": "自行拆除报警器"}
+      ],
+      "correct": ["A"]
+    },
+    {
+      "id": "q2",
+      "type": "multiple",
+      "points": 4,
+      "options": [
+        {"id": "A", "text": "佩戴安全帽"},
+        {"id": "B", "text": "遵守操作规程"},
+        {"id": "C", "text": "在厂区吸烟"}
+      ],
+      "correct": ["A", "B"]
+    },
+    {
+      "id": "q3",
+      "type": "numeric",
+      "points": 4,
+      "value": 36.8,
+      "tolerance": 0.3
+    }
+  ]
+}

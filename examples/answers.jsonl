@@ -1,0 +1,12 @@
+{"student_id": "S001", "answers": {"q1": ["A"], "q2": ["A", "B"], "q3": 36.9}}
+{"student_id": "S002", "answers": {"q1": ["B"], "q2": ["A"], "q3": 40}}
+{"student_id": "S003", "answers": {"q1": ["A"], "q3": 36.5}}
+{"student_id": "S004", "answers": {"q1": ["A"], "q2": ["A", "C"], "q3": 36.8}}
+{"student_id": "S005", "answers": {"q1": ["A", "B"], "q2": ["A"], "q3": 36.8}}
+{"student_id": "S006", "answers": {"q1": ["Z"], "q2": [], "q3": "36.8"}}
+{"student_id": "S007", "answers": {"q1": ["A"], "q2": ["A", "B"], "q3": 36.8}}
+{"student_id": "S007", "answers": {"q1": ["A"], "q2": ["A", "B"], "q3": 36.8}}
+{"student_id": "", "answers": {"q1": ["A"]}}
+{"student_id": "S008", "answers": {"q1": ["A"], "q9": ["A"]}}
+{"student_id": "S009", answers: broken}
+{"student_id": "S010", "answers": {"q1": ["A"], "q2": ["A", "A"], "q3": 36.8}}
