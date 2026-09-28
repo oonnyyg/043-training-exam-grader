@@ -1,0 +1,33 @@
+{
+  "pass_score": 6,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single",
+      "score": 2,
+      "options": ["A", "B", "C", "D"],
+      "correct_options": ["A"]
+    },
+    {
+      "id": "q2",
+      "type": "multiple",
+      "score": 4,
+      "options": ["A", "B", "C", "D"],
+      "correct_options": ["A", "C"]
+    },
+    {
+      "id": "q3",
+      "type": "number",
+      "score": 3,
+      "correct_value": 10,
+      "tolerance": 0.5
+    },
+    {
+      "id": "q4",
+      "type": "single",
+      "score": 1,
+      "options": ["T", "F"],
+      "correct_options": ["T"]
+    }
+  ]
+}

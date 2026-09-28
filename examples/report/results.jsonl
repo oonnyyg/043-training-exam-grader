@@ -1,0 +1,7 @@
+{"line":1,"candidate_id":"E001","valid":true,"questions":[{"question_id":"q1","score":2,"status":"correct"},{"question_id":"q2","score":4,"status":"correct"},{"question_id":"q3","score":3,"status":"correct"},{"question_id":"q4","score":1,"status":"correct"}],"total_score":10,"passed":true}
+{"line":2,"candidate_id":"E002","valid":false,"errors":["考生编号 \"E002\" 重复（共出现 2 次），相关答卷全部无效"]}
+{"line":3,"candidate_id":"E003","valid":true,"questions":[{"question_id":"q1","score":2,"status":"correct"},{"question_id":"q2","score":0,"status":"wrong"},{"question_id":"q3","score":0,"status":"wrong"},{"question_id":"q4","score":0,"status":"unanswered"}],"total_score":2,"passed":false}
+{"line":4,"candidate_id":"E004","valid":true,"questions":[{"question_id":"q1","score":0,"status":"unanswered"},{"question_id":"q2","score":2,"status":"partial"},{"question_id":"q3","score":0,"status":"unanswered"},{"question_id":"q4","score":0,"status":"wrong"}],"total_score":2,"passed":false}
+{"line":5,"candidate_id":"E005","valid":false,"errors":["题 \"q1\"引用了未定义选项 \"Z\""]}
+{"line":6,"candidate_id":"E002","valid":false,"errors":["考生编号 \"E002\" 重复（共出现 2 次），相关答卷全部无效"]}
+{"line":7,"candidate_id":"E006","valid":false,"errors":["非法 JSON 行: unexpected end of JSON input"]}
